@@ -1,5 +1,5 @@
 _repo: The-Motor-Boys-on-the-Pacific-Or-the-Young-Derelict-Hunters_5004
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ subjects:
 - !lcc 'PS'
 - !lcc 'PZ'
 - !lcsh 'Motorboats -- Juvenile fiction'
+- GITenberg
 title: The Motor Boys on the Pacific; Or, the Young Derelict Hunters
 url: http://www.gutenberg.org/ebooks/5004
